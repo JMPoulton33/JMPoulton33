@@ -1,6 +1,6 @@
 ## Hi, I'm James 👨🏼‍💻 
 
-I'm a Full Stack Developer who's passionate about Javascript and all related technologies, especially React. 
+### I'm a Full Stack Developer who's passionate about Javascript and all related technologies, especially React. ###
 
 **The following quote from Liam Neeson encapsulates my approach to learning new technologies**...  
 *"I don't know who you are, and I don't know what you do. I don’t have money, but what I do have are a very particular set of skills that I'm always looking to expand by learning new technologies. If you provide me with a direct link to your documentation that'll be the end of it. But if you don't, I will google, and I will find them, and then I will learn it anyway."*
