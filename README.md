@@ -10,7 +10,8 @@ I'm a Full Stack Developer who's passionate about Javascript and all related tec
 
 **looking for active discussion**. I think it's always important to continue to grow and other people provide a wealth of knowledge and experience that is often underestimated. 
 
-**Ask me about** anything to do with Javascript and related technologies.  
+**Ask me about** anything to do with Javascript and related technologies.
+
 <code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img height="40" alt="React" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"></code>
