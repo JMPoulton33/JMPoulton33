@@ -14,7 +14,6 @@ I strongly believe that in the digital age, being able to code is one of the bes
 
 **What's in my Bag of Tricks...**   
 
-<code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img height="40" alt="React" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"></code>
 <code><img height="40" alt="Redux" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcY-N3pDkxoX1ugnQT1_t5VraW9Uq4bpgbw&usqp=CAU"></code>
